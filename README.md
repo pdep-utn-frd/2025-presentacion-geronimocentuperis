@@ -8,4 +8,4 @@ Lo que me gusta hacer en mi tiempo libre es:
 - Juntarme con mis amigos
 - Ir a la cancha
 
-![foto](cancha.jpg)
+![foto](Cancha.jpg)
