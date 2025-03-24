@@ -4,10 +4,8 @@ Me llamo Gerónimo Nicolás Centuperis, tengo 22 años, soy estudiante de Ingeni
 
 ![foto](Presentacion.jpg)
 
-## Lo que me gusta hacer en mi tiempo libre es:
+Lo que me gusta hacer en mi tiempo libre es:
 - Ir al gimnasio
-- Ver/jugar al fútbol
-- Juntarme con mis amigos
+- Jugar al fútbol
 - Ir a la cancha
-
-![foto](Cancha.jpg)
+- Juntarme con mis amigos
