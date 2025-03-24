@@ -6,3 +6,6 @@ Lo que me gusta hacer en mi tiempo libre es:
 - Ir al gimnasio
 - Ver/jugar al fútbol
 - Juntarme con mis amigos
+- Ir a la cancha
+
+![foto](cancha.jpg)
